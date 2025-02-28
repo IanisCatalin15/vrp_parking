@@ -1,4 +1,4 @@
-# Parking System for FiveM (vRP Framework)
+# Parking System for FiveM (vRP2 Framework)
 
 ## 🚧 Under Development 🚧
 
